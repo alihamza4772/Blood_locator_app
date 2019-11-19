@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1014761654001",
+    "firebase_url": "https://blood-finder-f5309.firebaseio.com",
+    "project_id": "blood-finder-f5309",
+    "storage_bucket": "blood-finder-f5309.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014761654001:android:a3873f4561904cc4",
+        "android_client_info": {
+          "package_name": "com.example.blood_locator_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014761654001-hfg49qivhq023jcf47197ee7c7638ek7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blood_locator_app",
+            "certificate_hash": "178dec194b3c1d777ab81ceb545fbace3dab149f"
+          }
+        },
+        {
+          "client_id": "1014761654001-hkth5n5kng7p9pd9o3heo5ah9a99bbae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDONdCdkNAo2OMABBHBrmYJUf4YQ1RLF2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014761654001-hkth5n5kng7p9pd9o3heo5ah9a99bbae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Blood Locator</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">LOGIN</string>
+    <string name="enter_phone_no">Enter Phone No</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login1">LOGIN</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="already_have_an_account_log_in">Already have an account? Log in</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="title_activity_listand_map">ListandMapActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="search">Search</string>
+</resources>
