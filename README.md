@@ -11,7 +11,7 @@ The main aim of developing this application is to reduce the time to a great ext
 <br>
 <br>
 
-**Screenshot's Attached** 
-
+<h2>Screenshot's Attached</h2>
+<br>
 
 <img src=sign_up.jpg width="200" height="400"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src=main.jpg width="200" height="400"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src=login.jpg width="200" height="400">  <br><br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src=homescreen.jpg width="200" height="400"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src=userlist.jpg width="200" height="400">  
